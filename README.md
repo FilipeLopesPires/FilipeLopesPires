@@ -7,6 +7,7 @@ I am currently associated with the [Informatics Department](https://github.com/d
 [![ProtonMail Badge](https://img.shields.io/badge/-ProtonMail-c14438?style=plastic-square&logo=Protonmail&logoColor=white&link=mailto:fsnap@protonmail.com&color=263163)](mailto:nzioulis@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-c14438?style=plastic-square&logo=linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/filipepires98/)
 [![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-c14438?style=plastic-square&logo=researchgate&logoColor=white&color=00CCBB)](https://www.researchgate.net/profile/Filipe-Pires)
+[![Orcid Badge](https://img.shields.io/badge/-Orcid-c14438?style=plastic-square&logo=orcid&logoColor=white&color=A6CE39)](https://orcid.org/0000-0003-2919-557X)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=FilipePires98&count_private=true&show_icons=true&theme=prussian)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipePires98&theme=prussian&langs_count=2)](https://github.com/FilipePires98) -->
