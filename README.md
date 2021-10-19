@@ -1,7 +1,7 @@
 ### Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=FilipePires98)
 
 ### I'm a Visual Artist and Software Engineer
-I am currently associated with the [Informatics Department](https://github.com/detiuaveiro) at the University of Aveiro, Portugal.
+I am part of the awesome [Arcturus](https://arcturus.studio/) team based in California, United States - working remotely from Aveiro, Portugal.
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-c14438?style=plastic-square&logo=github&logoColor=white&color=181717)](https://github.com/FilipePires98)
 [![ProtonMail Badge](https://img.shields.io/badge/-ProtonMail-c14438?style=plastic-square&logo=Protonmail&logoColor=white&link=mailto:fsnap@protonmail.com&color=263163)](mailto:nzioulis@gmail.com)
