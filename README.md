@@ -1,7 +1,7 @@
 ### Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=FilipePires98)
 
-### I'm a Visual Artist and Software Engineer
-I am part of the awesome [Arcturus](https://github.com/Arcturus-Studio) team based in Halifax, Canada - working remotely from Aveiro, Portugal.
+### I'm a Visual Artist and XR Software Engineer
+I am part of the awesome [Arcturus](https://arcturus.studio/) team.
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-c14438?style=plastic-square&logo=github&logoColor=white&color=181717)](https://github.com/FilipePires98)
 [![ProtonMail Badge](https://img.shields.io/badge/-ProtonMail-c14438?style=plastic-square&logo=Protonmail&logoColor=white&link=mailto:fsnap@protonmail.com&color=263163)](mailto:nzioulis@gmail.com)
@@ -15,6 +15,7 @@ I am part of the awesome [Arcturus](https://github.com/Arcturus-Studio) team bas
 ### My toolset:
 
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=172f45)
+![](https://img.shields.io/badge/Code-C%20+%20+-informational?style=flat&logo=c-sharp&logoColor=white&color=172f45)
 ![](https://img.shields.io/badge/Code-C%20Sharp-informational?style=flat&logo=c-sharp&logoColor=white&color=172f45)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=172f45)
 ![](https://img.shields.io/badge/Code-Tex-informational?style=flat&logo=latex&logoColor=white&color=172f45)
@@ -25,6 +26,7 @@ I am part of the awesome [Arcturus](https://github.com/Arcturus-Studio) team bas
 ![](https://img.shields.io/badge/VFX-TouchDesigner-informational?style=flat&logo=cloudsmith&logoColor=white&color=172f45)
 
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=172f45)
+![](https://img.shields.io/badge/Editor-Unreal%20Engine-informational?style=flat&logo=unreal-engine&logoColor=white&color=172f45)
 ![](https://img.shields.io/badge/Editor-Unity3D-informational?style=flat&logo=unity&logoColor=white&color=172f45)
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=172f45)
