@@ -8,6 +8,7 @@ I am part of the awesome [Arcturus](https://arcturus.studio/) team.
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-c14438?style=plastic-square&logo=linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/filipepires98/)
 [![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-c14438?style=plastic-square&logo=researchgate&logoColor=white&color=00CCBB)](https://www.researchgate.net/profile/Filipe-Pires)
 [![Orcid Badge](https://img.shields.io/badge/-Orcid-c14438?style=plastic-square&logo=orcid&logoColor=white&color=A6CE39)](https://orcid.org/0000-0003-2919-557X)
+<!-- Icons available here: https://simpleicons.org/ -->
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=FilipePires98&count_private=true&show_icons=true&theme=prussian)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipePires98&theme=prussian&langs_count=2)](https://github.com/FilipePires98) -->
@@ -15,7 +16,7 @@ I am part of the awesome [Arcturus](https://arcturus.studio/) team.
 ### My toolset:
 
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=172f45)
-![](https://img.shields.io/badge/Code-C%20+%20+-informational?style=flat&logo=c-sharp&logoColor=white&color=172f45)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=172f45)
 ![](https://img.shields.io/badge/Code-C%20Sharp-informational?style=flat&logo=c-sharp&logoColor=white&color=172f45)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=172f45)
 ![](https://img.shields.io/badge/Code-Tex-informational?style=flat&logo=latex&logoColor=white&color=172f45)
