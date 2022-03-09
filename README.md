@@ -31,7 +31,6 @@ I am part of the awesome [Arcturus](https://arcturus.studio/) team.
 ![](https://img.shields.io/badge/Editor-Unity3D-informational?style=flat&logo=unity&logoColor=white&color=172f45)
 
 ![](https://img.shields.io/badge/Camera-GoPro-informational?style=flat&logo=piwigo&logoColor=white&color=172f45)
-![](https://img.shields.io/badge/Camera-Sony-informational?style=flat&logo=piwigo&logoColor=white&color=172f45)
 ![](https://img.shields.io/badge/Camera-Pentax-informational?style=flat&logo=pixabay&logoColor=white&color=172f45)
 ![](https://img.shields.io/badge/Camera-Canon-informational?style=flat&logo=pixabay&logoColor=white&color=172f45)
 
