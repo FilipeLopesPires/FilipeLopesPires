@@ -1,7 +1,7 @@
 ### Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=FilipePires98)
 
-### I'm a Visual Artist and XR Software Engineer
-I am part of the awesome [Arcturus](https://arcturus.studio/) team.
+### I'm a Demo & Sales Engineer
+I am part of the awesome [Arcturus](https://arcturus.studio/) team, currently working mostly with Unreal Engine for XR projects.
 
 ![](https://media.licdn.com/dms/image/C4D16AQE9q_H5ZQkyvA/profile-displaybackgroundimage-shrink_200_800/0/1663610522704?e=2147483647&v=beta&t=mXYXd3sCoTS92Q2Ga0dqkHRpucaPMjSde9uocezYB-I)
 
