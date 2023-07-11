@@ -1,7 +1,6 @@
-### Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=FilipePires98)
-
-### I'm a Demo & Sales Engineer
-I am part of the awesome [Arcturus](https://arcturus.studio/) team, currently working mostly with Unreal Engine for XR projects.
+<!-- ### Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=FilipePires98) -->
+### About Me
+I'm a Demo & Sales Engineer at [Arcturus](https://arcturus.studio/), currently working mostly with Unreal Engine and Unity for XR projects.
 
 ![](https://media.licdn.com/dms/image/C4D16AQE9q_H5ZQkyvA/profile-displaybackgroundimage-shrink_200_800/0/1663610522704?e=2147483647&v=beta&t=mXYXd3sCoTS92Q2Ga0dqkHRpucaPMjSde9uocezYB-I)
 
@@ -16,7 +15,7 @@ I am part of the awesome [Arcturus](https://arcturus.studio/) team, currently wo
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=FilipePires98&count_private=true&show_icons=true&theme=prussian) --> <!-- This is no longer working -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipePires98&theme=prussian&langs_count=2)](https://github.com/FilipePires98) -->
 
-### My toolset:
+My toolset:
 
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=172f45)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=172f45)
