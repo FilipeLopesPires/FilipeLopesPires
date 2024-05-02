@@ -22,9 +22,10 @@ My toolset:
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=172f45)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=172f45)
 
-![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=172f45)
 ![](https://img.shields.io/badge/Editor-Unreal%20Engine-informational?style=flat&logo=unreal-engine&logoColor=white&color=172f45)
 ![](https://img.shields.io/badge/Editor-Unity3D-informational?style=flat&logo=unity&logoColor=white&color=172f45)
+![](https://img.shields.io/badge/Editor-Visual%20Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=172f45)
+![](https://img.shields.io/badge/Editor-XCode-informational?style=flat&logo=xcode&logoColor=white&color=172f45)
 
 ![](https://img.shields.io/badge/VFX-Photoshop-informational?style=flat&logo=adobe&logoColor=white&color=172f45)
 ![](https://img.shields.io/badge/VFX-AfterEffects-informational?style=flat&logo=adobe&logoColor=white&color=172f45)
