@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=FilipePires98) -->
 ### About Me
-I'm a Demo & Sales Engineer at [Arcturus](https://arcturus.studio/), currently working mostly with Unreal Engine and Unity for XR projects.
+I'm an XR and Real-time CG Engineer at [Arcturus](https://arcturus.studio/), currently working mostly with Unreal Engine and Unity on immersive projects.
 
 ![](https://media.licdn.com/dms/image/C4D16AQE9q_H5ZQkyvA/profile-displaybackgroundimage-shrink_200_800/0/1663610522704?e=2147483647&v=beta&t=mXYXd3sCoTS92Q2Ga0dqkHRpucaPMjSde9uocezYB-I)
 
@@ -12,15 +12,15 @@ I'm a Demo & Sales Engineer at [Arcturus](https://arcturus.studio/), currently w
 [![Orcid Badge](https://img.shields.io/badge/-Orcid-c14438?style=plastic-square&logo=orcid&logoColor=white&color=A6CE39)](https://orcid.org/0000-0003-2919-557X)
 <!-- Icons available here: https://simpleicons.org/ -->
 
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=FilipePires98&count_private=true&show_icons=true&theme=prussian) --> <!-- This is no longer working -->
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=FilipePires98&count_private=true&show_icons=true&theme=prussian) --> 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipePires98&theme=prussian&langs_count=2)](https://github.com/FilipePires98) -->
 
 My toolset:
 
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=172f45)
+![](https://img.shields.io/badge/Code-C%20Sharp-informational?style=flat&logo=c-sharp&logoColor=white&color=172f45)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=172f45)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=172f45)
-![](https://img.shields.io/badge/Code-C%20Sharp-informational?style=flat&logo=c-sharp&logoColor=white&color=172f45)
 
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=172f45)
 ![](https://img.shields.io/badge/Editor-Unreal%20Engine-informational?style=flat&logo=unreal-engine&logoColor=white&color=172f45)
