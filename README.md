@@ -1,8 +1,8 @@
 <!-- ### Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=FilipePires98) -->
 ### About Me
-I'm an XR and Real-time CG Engineer at [Arcturus](https://arcturus.studio/), currently working mostly with Unreal Engine and Unity on immersive projects.
+I'm an XR Solutions and Real-time CG Engineer at [Arcturus](https://arcturus.studio/), currently working mostly with Unreal Engine and Unity on immersive projects.
 
-![](https://media.licdn.com/dms/image/C4D16AQE9q_H5ZQkyvA/profile-displaybackgroundimage-shrink_200_800/0/1663610522704?e=2147483647&v=beta&t=mXYXd3sCoTS92Q2Ga0dqkHRpucaPMjSde9uocezYB-I)
+![](https://media.licdn.com/dms/image/D4D16AQHly4sJu90zbQ/profile-displaybackgroundimage-shrink_350_1400/0/1705342088033?e=1721260800&v=beta&t=d260hDG9gVEXnDd_XKCEz4q8PDghjPkLojSGWeDQaR8)
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-c14438?style=plastic-square&logo=github&logoColor=white&color=181717)](https://github.com/FilipePires98)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-c14438?style=plastic-square&logo=youtube&logoColor=white&color=B31217)](https://www.youtube.com/channel/UC9cXLrf_Jf7mpI11ESGteuQ)
