@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=FilipePires98) -->
 ### About Me
-I'm the lead immersive engineer at [Dorier Group](https://dorier-group.com/), currently working mostly with real-time engines on XR projects.
+Lead immersive engineer at [Dorier Group](https://dorier-group.com/), probably working with real-time engines on XR projects right now.
 
 ![](https://rmkcdn.successfactors.com/d9f92b7c/b75195d2-0843-4985-a658-0.jpg)
 
@@ -34,12 +34,11 @@ My toolset:
 
 ![](https://img.shields.io/badge/Unreal-informational?style=flat&logo=unreal-engine&logoColor=white&color=172f45)
 ![](https://img.shields.io/badge/Unity-informational?style=flat&logo=unity&logoColor=white&color=172f45)
-![](https://img.shields.io/badge/Wonderland-informational?style=flat&logo=wish&logoColor=white&color=172f45)
-![](https://img.shields.io/badge/SideFX%20Houdini-informational?style=flat&logo=houdini&logoColor=white&color=172f45)
-![](https://img.shields.io/badge/Blender-informational?style=flat&logo=blender&logoColor=white&color=172f45)
-![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=adobe&logoColor=white&color=172f45)
-![](https://img.shields.io/badge/After%20Effects-informational?style=flat&logo=adobe&logoColor=white&color=172f45)
+![](https://img.shields.io/badge/Adobe%20Suite-informational?style=flat&logo=adobe&logoColor=white&color=172f45)
 ![](https://img.shields.io/badge/DaVinci%20Resolve-informational?style=flat&logo=davinci-resolve&logoColor=white&color=172f45)
+![](https://img.shields.io/badge/Blender-informational?style=flat&logo=blender&logoColor=white&color=172f45)
+![](https://img.shields.io/badge/SideFX%20Houdini-informational?style=flat&logo=houdini&logoColor=white&color=172f45)
+<!-- ![](https://img.shields.io/badge/Wonderland-informational?style=flat&logo=wish&logoColor=white&color=172f45) -->
 <!-- ![](https://img.shields.io/badge/VFX-TouchDesigner-informational?style=flat&logo=cloudsmith&logoColor=white&color=172f45) -->
 
 ![](https://img.shields.io/badge/Video-GoPro-informational?style=flat&logo=piwigo&logoColor=white&color=172f45)
@@ -55,9 +54,3 @@ My toolset:
 ### Some projects I've been working on:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FilipePires98&repo=BusinessCard&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/FilipePires98/BusinessCard)
 -->
-
-
-
-
-
-
