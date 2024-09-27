@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=FilipePires98) -->
 ### About Me
-Lead immersive engineer at [Dorier Group](https://dorier-group.com/), probably working with real-time engines on XR projects right now.
+Lead immersive engineer at [Dorier](https://dorier-group.com/), part of [MCI](https://www.mci-group.com/), probably working with real-time engines on XR projects right now.
 
 ![](https://rmkcdn.successfactors.com/d9f92b7c/b75195d2-0843-4985-a658-0.jpg)
 
