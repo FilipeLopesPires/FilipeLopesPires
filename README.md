@@ -34,8 +34,9 @@ My toolset:
 
 ![](https://img.shields.io/badge/Unreal-informational?style=flat&logo=unreal-engine&logoColor=white&color=172f45)
 ![](https://img.shields.io/badge/Unity-informational?style=flat&logo=unity&logoColor=white&color=172f45)
-![](https://img.shields.io/badge/Adobe%20Suite-informational?style=flat&logo=adobe&logoColor=white&color=172f45)
 ![](https://img.shields.io/badge/DaVinci%20Resolve-informational?style=flat&logo=davinci-resolve&logoColor=white&color=172f45)
+![](https://img.shields.io/badge/Affinity-informational?style=flat&logo=affinity&logoColor=white&color=172f45)
+![](https://img.shields.io/badge/Adobe%20Suite-informational?style=flat&logo=adobe&logoColor=white&color=172f45)
 ![](https://img.shields.io/badge/Blender-informational?style=flat&logo=blender&logoColor=white&color=172f45)
 ![](https://img.shields.io/badge/SideFX%20Houdini-informational?style=flat&logo=houdini&logoColor=white&color=172f45)
 <!-- ![](https://img.shields.io/badge/Wonderland-informational?style=flat&logo=wish&logoColor=white&color=172f45) -->
