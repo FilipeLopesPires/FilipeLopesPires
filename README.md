@@ -4,9 +4,9 @@ Lead immersive engineer at [Dorier](https://dorier-group.com/), part of [MCI](ht
 
 ![](https://rmkcdn.successfactors.com/d9f92b7c/b75195d2-0843-4985-a658-0.jpg)
 
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-c14438?style=plastic-square&logo=github&logoColor=white&color=181717)](https://github.com/FilipePires98)
+<!-- [![GitHub Badge](https://img.shields.io/badge/-GitHub-c14438?style=plastic-square&logo=github&logoColor=white&color=181717)](https://github.com/FilipeLopesPires)) -->
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-c14438?style=plastic-square&logo=youtube&logoColor=white&color=B31217)](https://www.youtube.com/channel/UC9cXLrf_Jf7mpI11ESGteuQ)
-[![ProtonMail Badge](https://img.shields.io/badge/-ProtonMail-c14438?style=plastic-square&logo=Protonmail&logoColor=white&link=mailto:fsnap@protonmail.com&color=263163)](mailto:nzioulis@gmail.com)
+[![ProtonMail Badge](https://img.shields.io/badge/-Email-c14438?style=plastic-square&logo=Protonmail&logoColor=white&link=mailto:fsnap@protonmail.com&color=263163)](mailto:fsnap@protonmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-c14438?style=plastic-square&logo=linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/filipepires98/)
 [![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-c14438?style=plastic-square&logo=researchgate&logoColor=white&color=00CCBB)](https://www.researchgate.net/profile/Filipe-Pires)
 [![Orcid Badge](https://img.shields.io/badge/-Orcid-c14438?style=plastic-square&logo=orcid&logoColor=white&color=A6CE39)](https://orcid.org/0000-0003-2919-557X)
