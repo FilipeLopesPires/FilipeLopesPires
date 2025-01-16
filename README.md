@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=FilipePires98) -->
 ### About Me
-Lead immersive engineer at [Dorier](https://dorier-group.com/), part of [MCI](https://www.mci-group.com/), probably working with real-time engines on XR projects right now.
+Lead immersive engineer at [Dorier](https://dorier-group.com/), part of [MCI Group](https://www.mci-group.com/), probably working with real-time engines on XR projects right now.
 
 ![](https://rmkcdn.successfactors.com/d9f92b7c/b75195d2-0843-4985-a658-0.jpg)
 
@@ -42,9 +42,10 @@ My toolset:
 <!-- ![](https://img.shields.io/badge/Wonderland-informational?style=flat&logo=wish&logoColor=white&color=172f45) -->
 <!-- ![](https://img.shields.io/badge/VFX-TouchDesigner-informational?style=flat&logo=cloudsmith&logoColor=white&color=172f45) -->
 
-![](https://img.shields.io/badge/Video-GoPro-informational?style=flat&logo=piwigo&logoColor=white&color=172f45)
-![](https://img.shields.io/badge/Photography-Pentax-informational?style=flat&logo=pixabay&logoColor=white&color=172f45)
-![](https://img.shields.io/badge/Photography-Canon-informational?style=flat&logo=pixabay&logoColor=white&color=172f45)
+![](https://img.shields.io/badge/Action%20Cam-GoPro%20Hero-informational?style=flat&logo=piwigo&logoColor=white&color=172f45)
+![](https://img.shields.io/badge/Drone-DJI%20Mini-informational?style=flat&logo=drone&logoColor=white&color=172f45)
+![](https://img.shields.io/badge/DSLR-Nikon%20D5500-informational?style=flat&logo=pixabay&logoColor=white&color=172f45)
+![](https://img.shields.io/badge/Analog-Pentax-informational?style=flat&logo=pixabay&logoColor=white&color=172f45)
 
 <!--
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=172f45)
