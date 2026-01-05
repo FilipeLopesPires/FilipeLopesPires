@@ -53,7 +53,7 @@ My toolset:
 
 ![](https://img.shields.io/badge/Action%20Cam-GoPro%20Hero-informational?style=flat&logo=piwigo&logoColor=white&color=172f45)
 ![](https://img.shields.io/badge/Drone-DJI%20Mini-informational?style=flat&logo=drone&logoColor=white&color=172f45)
-![](https://img.shields.io/badge/DSLR-Nikon%20D5500-informational?style=flat&logo=instagram&logoColor=white&color=172f45)
+![](https://img.shields.io/badge/DSLR-Panasonic%20TZ95-informational?style=flat&logo=instagram&logoColor=white&color=172f45)
 ![](https://img.shields.io/badge/Analog-Pentax-informational?style=flat&logo=instagram&logoColor=white&color=172f45)
 
 <!--
@@ -66,6 +66,8 @@ My toolset:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FilipePires98&repo=BusinessCard&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/FilipePires98/BusinessCard)
 -->
 
+<--
 Fun profile trophies:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=filipelopespires&theme=onedark&title=-Issues,-PullRequest,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+-->
