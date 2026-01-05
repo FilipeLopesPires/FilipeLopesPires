@@ -66,7 +66,7 @@ My toolset:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FilipePires98&repo=BusinessCard&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/FilipePires98/BusinessCard)
 -->
 
-<--
+<!--
 Fun profile trophies:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=filipelopespires&theme=onedark&title=-Issues,-PullRequest,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
