@@ -1,8 +1,8 @@
 
 <a href="https://www.filipelopespires.com/" target="_blank" rel="noopener noreferrer" style="display: block;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="media/Banner_Dark.png" />
-    <img src="media/Banner_Light.png" alt="Filipe Lopes Pires 'About Me' banner image" style="width: 100%; height: auto; display: block;" />
+    <source media="(prefers-color-scheme: dark)" srcset="media/Banner_Dark.jpg" />
+    <img src="media/Banner_Light.jpg" alt="Filipe Lopes Pires 'About Me' banner image" style="width: 100%; height: auto; display: block;" />
   </picture>
 </a>
 
