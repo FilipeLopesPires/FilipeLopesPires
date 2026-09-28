@@ -1,10 +1,11 @@
-
+<!--
 <a href="https://www.filipelopespires.com/" target="_blank" rel="noopener noreferrer" style="display: block;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="media/Banner_Dark.jpg" />
     <img src="media/Banner_Light.jpg" alt="Filipe Lopes Pires 'About Me' banner image" style="width: 100%; height: auto; display: block;" />
   </picture>
 </a>
+-->
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-CBAA36?style=for-the-badge)](https://www.filipelopespires.com/) <!-- light theme #CBAA36 dark theme #0D0D0D -->
 [![YouTube](https://img.shields.io/badge/YouTube-B31217?style=for-the-badge)](https://www.youtube.com/channel/UC9cXLrf_Jf7mpI11ESGteuQ)
@@ -15,7 +16,7 @@
 
 ### About Me
 
-Lead immersive engineer of [Creative Tech](https://github.com/CTDorier) at [Dorier](https://dorier-group.com/), part of [MCI Group](https://www.mci-group.com/).
+Lead immersive engineer of [Creative Tech](https://github.com/CTDorier) at [Dorier](https://dorier-group.com/), part of [mci group](https://www.mci-group.com/).
 
 Previously working on holograms and spatial video at [Arcturus](https://arcturus.studio/). <!-- https://github.com/Arcturus-Studio -->
 Member of the [XR4Europe](https://xr4europe.eu/), [Euromersive](https://www.euromersive.eu/) and [XR Guild](https://www.xrguild.org/) initiatives, uniting the XR community in Europe and across the globe.
