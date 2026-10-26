@@ -9,7 +9,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-CBAA36?style=for-the-badge)](https://www.filipelopespires.com/) <!-- light theme #CBAA36 dark theme #0D0D0D -->
 [![YouTube](https://img.shields.io/badge/YouTube-B31217?style=for-the-badge)](https://www.youtube.com/channel/UC9cXLrf_Jf7mpI11ESGteuQ)
-[![Email](https://img.shields.io/badge/Email-263163?style=for-the-badge)](mailto:fsnap@protonmail.com)
+[![Email](https://img.shields.io/badge/Email-263163?style=for-the-badge)](mailto:contact@filipelopespires.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/filipelopespires/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge)](https://www.researchgate.net/profile/Filipe-Pires)
 [![Orcid](https://img.shields.io/badge/Orcid-A6CE39?style=for-the-badge)](https://orcid.org/0000-0003-2919-557X)
